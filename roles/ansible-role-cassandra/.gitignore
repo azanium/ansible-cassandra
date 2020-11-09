@@ -1,0 +1,7 @@
+.idea/
+.python-version
+*.pyc
+*.rake_tasks~
+*.swp
+Gemfile.lock
+pytestdebug.log
